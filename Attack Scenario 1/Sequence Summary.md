@@ -36,7 +36,7 @@ flowchart TD
 
     style Actions_Objectives fill:#BA4A00,stroke:#000,stroke-width:2px
 
-    style MITRE fill:#b80015,stroke:#000,stroke-width:2px
+    style MITRE fill:#8a0111,stroke:#000,stroke-width:2px
 
 
 
@@ -60,7 +60,7 @@ flowchart TD
 
     subgraph MITRE_Attack[MITRE ATT&CK Techniques]
 
-    style MITRE fill:#85C1E9,stroke:#000,stroke-width:2px
+    style MITRE fill:#8a0111,stroke:#000,stroke-width:2px
 
     Delivery -->|T1566.001 - Phishing| MITRE
 
