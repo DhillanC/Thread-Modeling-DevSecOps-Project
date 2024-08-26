@@ -6,7 +6,7 @@
 
 
 
-The attacker is an APT who has conducted advanced research on Solaris. The attacker initiates the attack by identifying key personnel who likely had admin credentials to production environments. This way the attacker does not need to bypass a WAF or any other security controls but will instead have direct access to the environments as if an admin.
+The attacker is an APT who has conducted advanced research on DCS Care Connect Solutions. The attacker initiates the attack by identifying key personnel who likely had admin credentials to production environments. This way the attacker does not need to bypass a WAF or any other security controls but will instead have direct access to the environments as if an admin.
 
 
 
@@ -22,7 +22,7 @@ The attack sequence below utilises the MITRE ATT&CK framework along with the com
 
 flowchart TD
 
-    style Reconnaissance fill:#F4D03F,stroke:#000,stroke-width:2px
+    style Reconnaissance fill:#0037b8,stroke:#000,stroke-width:2px
 
     style Weaponization fill:#F5B041,stroke:#000,stroke-width:2px
 
@@ -36,11 +36,11 @@ flowchart TD
 
     style Actions_Objectives fill:#BA4A00,stroke:#000,stroke-width:2px
 
-    style MITRE fill:#85C1E9,stroke:#000,stroke-width:2px
+    style MITRE fill:#b80015,stroke:#000,stroke-width:2px
 
 
 
-    Reconnaissance[Reconnaissance] -->|Attacker searches Linkedin for admin users of Solaris with credentials to AWS| Weaponization[Weaponization]
+    Reconnaissance[Reconnaissance] -->|Attacker searches Linkedin for admin users of DCS with credentials to AWS| Weaponization[Weaponization]
 
     Weaponization[Weaponization] -->|Craft exploit for known vulnerabilities| Delivery[Delivery]
 

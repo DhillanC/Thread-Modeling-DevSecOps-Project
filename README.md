@@ -1,7 +1,7 @@
 # Project Summary
 
 
-This repository contains the results and findings of a comprehensive threat modeling workshop focused on DCS Care Connect Health 360, a web-facing healthcare application. The workshop, conducted over three hours, explored various AI-driven attack scenarios and provided a detailed runbook for analyzing and mitigating potential cyber threats. Attendees included key members from the DCS Care Connect engineering team, product management, DevEx, and DevSecOps. The goal was to identify critical vulnerabilities and strengthen the application's security posture through the application of industry-standard frameworks such as the MITRE ATT&CK and STRIDE models.
+This repository contains the results and findings of a comprehensive threat modeling workshop focused on DCS Care Connect team an their Health 360 solution, a web-facing healthcare application. The workshop, conducted over three hours, explored various AI-driven attack scenarios and provided a detailed runbook for analyzing and mitigating potential cyber threats. Attendees included key members from the DCS Care Connect engineering team, product management, DevEx, and DevSecOps. The goal was to identify critical vulnerabilities and strengthen the application's security posture through the application of industry-standard frameworks such as the MITRE ATT&CK and STRIDE models.
 
 
 
@@ -13,13 +13,13 @@ This repository contains the results and findings of a comprehensive threat mode
 
 ## Introduction
 
-A 3-hour threat modeling workshop took place to detail the runbook scenario of multiple AI attacks against the web-facing healthcare application DCS Care Connect 360.
+A 3-hour threat modeling workshop took place to detail the runbook scenario of multiple AI attacks against the web-facing healthcare application DCS Care Connect health 360.
 
 
 
 ## Attendees
 
-Care Connect Engineering team, Product Managers, DevEx Engineers, and the DevSecOps Team.
+DCS Care Connect Engineering team, Product Managers, DevEx Engineers, and the DevSecOps Team.
 
 
 

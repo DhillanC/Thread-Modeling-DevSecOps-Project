@@ -16,7 +16,7 @@
 
     activate Attacker
 
-    Attacker->>DCSHealthApp: Identify Solari Health 360 app
+    Attacker->>DCSHealthApp: Identify DCS Health 360 app
 
     DCSHealthApp->>Attacker: Application identified
 
