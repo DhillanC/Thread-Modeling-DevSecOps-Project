@@ -1,7 +1,9 @@
 # Project Summary
 
 
-This repository contains the results and findings of a comprehensive threat modeling workshop focused on DCS Care Connect Health 360, a web-facing healthcare application. The workshop, conducted over three hours, explored various AI-driven attack scenarios and provided a detailed runbook for analyzing and mitigating potential cyber threats. Attendees included key members from the Care Connect engineering team, product management, DevEx, and DevSecOps. The goal was to identify critical vulnerabilities and strengthen the application's security posture through the application of industry-standard frameworks such as the MITRE ATT&CK and STRIDE models.
+This repository contains the results and findings of a comprehensive threat modeling workshop focused on DCS Care Connect Health 360, a web-facing healthcare application. The workshop, conducted over three hours, explored various AI-driven attack scenarios and provided a detailed runbook for analyzing and mitigating potential cyber threats. Attendees included key members from the DCS Care Connect engineering team, product management, DevEx, and DevSecOps. The goal was to identify critical vulnerabilities and strengthen the application's security posture through the application of industry-standard frameworks such as the MITRE ATT&CK and STRIDE models.
+
+
 
 
 
@@ -35,7 +37,7 @@ All scenarios were run against the cyber attack kill chain, utilizing the Mitre 
 
 ## Conclusion
 
-A total of 4 high risks and 1 medium risks were found during the threat modeling workshop.
+A total of 4 high risks and 1 medium risk were found during the threat modeling workshop.
 
 
 
