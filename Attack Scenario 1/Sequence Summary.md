@@ -36,7 +36,7 @@ flowchart TD
 
     style Actions_Objectives fill:#BA4A00,stroke:#000,stroke-width:2px
 
-    style MITRE fill:#b80015,stroke:#000,stroke-width:2px
+    style MITRE fill:#8a0111,stroke:#000,stroke-width:2px
 
 
 
