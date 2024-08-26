@@ -48,7 +48,8 @@ With access to the DCS Health 360 application, the attacker can exfiltrate sensi
 
 
 ```mermaid
-flowchart LR
+
+flowchart TD
 
     A[GitHub Repos] --> B{CI/CD Pipeline GH Actions}
     
